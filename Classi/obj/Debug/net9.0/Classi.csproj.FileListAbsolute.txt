@@ -1,0 +1,5 @@
+C:\Users\Nymes\Documents\C#\Classi\obj\Debug\net9.0\Classi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nymes\Documents\C#\Classi\obj\Debug\net9.0\Classi.AssemblyInfoInputs.cache
+C:\Users\Nymes\Documents\C#\Classi\obj\Debug\net9.0\Classi.AssemblyInfo.cs
+C:\Users\Nymes\Documents\C#\Classi\obj\Debug\net9.0\Classi.csproj.CoreCompileInputs.cache
+C:\Users\Nymes\Documents\C#\Classi\obj\Debug\net9.0\Classi.sourcelink.json

@@ -1,7 +1,12 @@
 ﻿using System;
-using System.Numerics;
 
-namespace ConsoleApp1
+namespace ConsoleApp1   /*  
+                         *  ma cos'é un namespace?? é un raggruppamento di codice, classi che ci permette di creare piu
+                         *  namespaces e avere nomi di classi uguali ma con funzioni diverse. Lo stesso System é un namespace 
+                         *  e viene detto globale e contiene le sue classi come Console, posso poi richiamare ad esempio questo namespace
+                         *  usando using ConsoleApp1;
+                         *  in questo caso con namespace "nome"{} aggiungo/creo classi nel namespace
+                         */
 {
   class Program
   {
