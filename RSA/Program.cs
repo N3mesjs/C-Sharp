@@ -7,7 +7,11 @@ namespace RSA
     {
         static void Main(string[] args)
         {
-            BigInteger number = new BigInteger();
+            Random random = new Random();
+            byte[] bytes = new byte[16]; // Adjust size as needed
+            random.NextBytes(bytes);
+            BigInteger randomBigInteger = new BigInteger(bytes);
+            Console.WriteLine("Random BigInteger: " + randomBigInteger);
         }
     }
 }
