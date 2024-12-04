@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\RSA\\RSA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\RSA\\RSA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\RSA\\RSA.csproj",
+        "projectName": "RSA",
+        "projectPath": "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\RSA\\RSA.csproj",
         "packagesPath": "C:\\Users\\Nymes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\RSA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

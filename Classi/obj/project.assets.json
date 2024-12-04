@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nymes\\Documents\\C#\\Classi\\Classi.csproj",
+      "projectUniqueName": "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\Classi\\Classi.csproj",
       "projectName": "Classi",
-      "projectPath": "C:\\Users\\Nymes\\Documents\\C#\\Classi\\Classi.csproj",
+      "projectPath": "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\Classi\\Classi.csproj",
       "packagesPath": "C:\\Users\\Nymes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nymes\\Documents\\C#\\Classi\\obj\\",
+      "outputPath": "C:\\Users\\Nymes\\Documents\\GitHub\\C-Sharp\\Classi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

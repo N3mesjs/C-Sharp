@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classi", "Classi\Classi.csproj", "{F2854F3C-84BA-4705-A12C-C5F232C2FCEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA", "RSA\RSA.csproj", "{2B9EFDA3-6975-4EA5-BBB6-43C9D1A12484}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F2854F3C-84BA-4705-A12C-C5F232C2FCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2854F3C-84BA-4705-A12C-C5F232C2FCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2854F3C-84BA-4705-A12C-C5F232C2FCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9EFDA3-6975-4EA5-BBB6-43C9D1A12484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9EFDA3-6975-4EA5-BBB6-43C9D1A12484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9EFDA3-6975-4EA5-BBB6-43C9D1A12484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9EFDA3-6975-4EA5-BBB6-43C9D1A12484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
